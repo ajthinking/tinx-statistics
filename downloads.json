@@ -1,0 +1,210 @@
+{
+    "package": {
+        "name": "ajthinking\/tinx",
+        "downloads": {
+            "total": {
+                "total": 108878,
+                "monthly": 11651,
+                "daily": 541
+            },
+            "versions": {
+                "dev-master": {
+                    "total": 599,
+                    "monthly": 108,
+                    "daily": 0
+                },
+                "dev-enable-shortcut-for-empty-tables": {
+                    "total": 0,
+                    "monthly": 0,
+                    "daily": 0
+                },
+                "v2.3.1": {
+                    "total": 2816,
+                    "monthly": 3284,
+                    "daily": 352
+                },
+                "v2.3.0": {
+                    "total": 14,
+                    "monthly": 14,
+                    "daily": 0
+                },
+                "v2.2.0": {
+                    "total": 800,
+                    "monthly": 829,
+                    "daily": 25
+                },
+                "v2.1.8": {
+                    "total": 9,
+                    "monthly": 5,
+                    "daily": 0
+                },
+                "v2.1.9": {
+                    "total": 7201,
+                    "monthly": 3671,
+                    "daily": 70
+                },
+                "v2.1.7": {
+                    "total": 40595,
+                    "monthly": 2665,
+                    "daily": 65
+                },
+                "v2.1.6": {
+                    "total": 26050,
+                    "monthly": 592,
+                    "daily": 14
+                },
+                "v2.1.5": {
+                    "total": 3811,
+                    "monthly": 18,
+                    "daily": 1
+                },
+                "2.1.3": {
+                    "total": 5,
+                    "monthly": 0,
+                    "daily": 0
+                },
+                "v2.1.4": {
+                    "total": 2,
+                    "monthly": 0,
+                    "daily": 0
+                },
+                "v2.1.2": {
+                    "total": 120,
+                    "monthly": 0,
+                    "daily": 0
+                },
+                "v2.1.1": {
+                    "total": 6480,
+                    "monthly": 32,
+                    "daily": 0
+                },
+                "v2.1.0": {
+                    "total": 2,
+                    "monthly": 0,
+                    "daily": 0
+                },
+                "v2.0.7": {
+                    "total": 2388,
+                    "monthly": 37,
+                    "daily": 3
+                },
+                "v2.0.6": {
+                    "total": 2053,
+                    "monthly": 20,
+                    "daily": 0
+                },
+                "v2.0.5": {
+                    "total": 901,
+                    "monthly": 0,
+                    "daily": 0
+                },
+                "v2.0.4": {
+                    "total": 23,
+                    "monthly": 0,
+                    "daily": 0
+                },
+                "v2.0.3": {
+                    "total": 968,
+                    "monthly": 0,
+                    "daily": 0
+                },
+                "v2.0.2": {
+                    "total": 524,
+                    "monthly": 0,
+                    "daily": 0
+                },
+                "v2.0.1": {
+                    "total": 234,
+                    "monthly": 0,
+                    "daily": 0
+                },
+                "v2.0.0": {
+                    "total": 199,
+                    "monthly": 0,
+                    "daily": 0
+                },
+                "v1.0.1": {
+                    "total": 589,
+                    "monthly": 15,
+                    "daily": 0
+                },
+                "v1.0.0": {
+                    "total": 12,
+                    "monthly": 0,
+                    "daily": 0
+                },
+                "v0.8.4": {
+                    "total": 4970,
+                    "monthly": 280,
+                    "daily": 9
+                },
+                "v0.8.3": {
+                    "total": 562,
+                    "monthly": 0,
+                    "daily": 0
+                },
+                "v0.8.2": {
+                    "total": 338,
+                    "monthly": 30,
+                    "daily": 0
+                },
+                "v0.8.1": {
+                    "total": 2,
+                    "monthly": 0,
+                    "daily": 0
+                },
+                "v0.8": {
+                    "total": 32,
+                    "monthly": 0,
+                    "daily": 0
+                },
+                "v0.7.1": {
+                    "total": 394,
+                    "monthly": 0,
+                    "daily": 0
+                },
+                "v0.7": {
+                    "total": 0,
+                    "monthly": 0,
+                    "daily": 0
+                },
+                "v0.6.1": {
+                    "total": 4593,
+                    "monthly": 49,
+                    "daily": 2
+                },
+                "v0.6": {
+                    "total": 6,
+                    "monthly": 0,
+                    "daily": 0
+                },
+                "v0.5": {
+                    "total": 9,
+                    "monthly": 0,
+                    "daily": 0
+                },
+                "v0.4": {
+                    "total": 175,
+                    "monthly": 2,
+                    "daily": 0
+                },
+                "v0.3": {
+                    "total": 41,
+                    "monthly": 0,
+                    "daily": 0
+                },
+                "0.1": {
+                    "total": 2,
+                    "monthly": 0,
+                    "daily": 0
+                },
+                "v0.2": {
+                    "total": 0,
+                    "monthly": 0,
+                    "daily": 0
+                }
+            }
+        },
+        "favers": 341
+    }
+}
